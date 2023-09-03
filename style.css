@@ -65,6 +65,7 @@ details {
   }
 
   button {
+    margin-top:10px;
     display: inline-block;
     padding: 8px 16px;
     background-color: #4CAF50; 
@@ -99,3 +100,12 @@ details {
     font-size:13px;
   }
   
+
+  @media (max-width: 768px) {
+    #main {
+      width: 90%; /* Adjust the width for smaller screens */
+    }
+  }
+  button {
+    padding: 12px 24px;
+  }
