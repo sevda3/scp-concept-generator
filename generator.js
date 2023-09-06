@@ -1,4 +1,5 @@
 const items = [
+    "mirror",
     "cat",
     "song",
     "spoon",
@@ -7,6 +8,7 @@ const items = [
     "book",
     "shoes",
     "coffee mug",
+    "key",
     "keyboard",
     "phone",
     "chair",
@@ -108,6 +110,11 @@ const verbs = [
     "squeezes",
   ];
   const subjects = [
+    "love",
+    "hate",
+    "disgust",
+    "a gun",
+    "a river",
     "girls",
     "boys",
     "cats",
